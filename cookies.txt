@@ -1,0 +1,19 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.voobly.com/welcome"
+#   2) curl --cookie cookies.txt "https://www.voobly.com/welcome"
+#   3) aria2c --load-cookies cookies.txt "https://www.voobly.com/welcome"
+#
+.voobly.com	TRUE	/	FALSE	1573333394	__cfduid	d9c9e64ca8f674e97f57f7a56d56dbac61541797395
+.voobly.com	TRUE	/	FALSE	1544389615	vbly_test	1
+www.voobly.com	FALSE	/	FALSE	0	vbly_GMT_bias	300
+.voobly.com	TRUE	/	FALSE	1604869404	__utma	208914581.227678341.1541797395.1541797395.1541797395.1
+.voobly.com	TRUE	/	FALSE	0	__utmc	208914581
+.voobly.com	TRUE	/	FALSE	1557565404	__utmz	208914581.1541797395.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.voobly.com	TRUE	/	FALSE	1541797995	__utmt	1
+.voobly.com	TRUE	/	FALSE	1544389618	vbly_session7	1251690699cyaycneg0anndniijkugzc
+.voobly.com	TRUE	/	FALSE	1544389618	vbly_username	GenericUser0
+.voobly.com	TRUE	/	FALSE	1544389618	vbly_session1	66ge0ze37gr7dujr
+.voobly.com	TRUE	/	FALSE	1544389618	vbly_password	21af74db72a215b1855a04f91f990b40
+.voobly.com	TRUE	/	FALSE	1541799204	__utmb	208914581.4.10.1541797395

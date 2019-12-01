@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1541738036 source:c:\program files (x86)\codeblocks\cbprojects\aoe2data\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<cassert>
+	<algorithm>
+	<iomanip>
+	<chrono>
+	<thread>
+
+1541738036 
+
+1541798245 source:/media/sf_C_DRIVE/Program Files (x86)/CodeBlocks/cbprojects/aoe2data/main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<cassert>
+	<algorithm>
+	<iomanip>
+	<chrono>
+	<thread>
+	<sstream>
+	<curl/curl.h>
+	<ext/pb_ds/assoc_container.hpp>
+

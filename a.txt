@@ -1,0 +1,840 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>+Fengxin_, [Heresy]LaaaaaN, [RoAmEr_]_Lisa, herdamit vs [i_got]_wasted, MysticCloudZ, talminated, Tia_Harribel_</title><link rel="stylesheet" href="https://voobly.com/res/css/layout6.css?v=17" type="text/css"><link rel="icon" type="image/png" href="https://voobly.com/res/favicon2.png"><title>+Fengxin_, [Heresy]LaaaaaN, [RoAmEr_]_Lisa, herdamit vs [i_got]_wasted, MysticCloudZ, talminated, Tia_Harribel_</title><link rel="image_src" href="/files/view/4002836/siz4490rcgmgimjyjeqq7mmccrbwofie"><meta name="description" content="+[_SY_]Fengxin_, [Heresy]LaaaaaN, [RoAmEr_]_Lisa, herdamit,  have won the match" /><meta name="keywords" content="Games, Multiplayer, messaging, online, ratings, ladders, social, chat, Age of Empires, Age of Empires II: The Conquerors, Rainbow Six: Rogue Spear, Microsoft Ants" /><link rel="stylesheet" type="text/css" href="https://voobly.com/res/markitup/skins/markitup/style.css" /><link rel="stylesheet" type="text/css" href="https://voobly.com/res/markitup/sets/bbcode/style.css" /><script type="text/javascript" src="https://voobly.com/res/markitup/jquery-1.4.2.min.js"></script><script type="text/javascript" src="https://voobly.com/res/markitup/jquery.markitup.js"></script><script type="text/javascript" src="https://voobly.com/res/markitup/sets/bbcode/set.js"></script><link rel="stylesheet" type="text/css" href="https://voobly.com/res/prettyPhoto/css/prettyPhoto.css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8" /><script type="text/javascript" src="https://voobly.com/res/prettyPhoto/js/jquery.prettyPhoto.js" charset="utf-8"></script><script type="text/javascript" src="https://voobly.com/res/voobly.js"></script><link href="https://voobly.com/res/facebox/facebox.css" media="screen" rel="stylesheet" type="text/css" /><script src="https://voobly.com/res/facebox/facebox.js" type="text/javascript"></script><script src="https://voobly.com/res/js/voobly.js" type="text/javascript"></script><script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-17899270-2']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script><script src='https://www.google.com/recaptcha/api.js'></script></head><body><script type="text/javascript" charset="utf-8">
+				$(document).ready(function(){
+					$(".gallery a[rel^='prettyPhoto']").prettyPhoto({theme:'facebook'});
+					$('a[rel*=facebox]').facebox();
+				});
+				</script>
+<script type="text/javascript">
+			<!--
+			$(document).ready(function()	{
+				// Add markItUp! to your textarea in one line
+				// $('textarea').markItUp( { Settings }, { OptionalExtraSettings } );
+				mySettings.previewParserPath = '/forum/preview/ou5z2io20k82g3kr';
+				$('#markItUp').markItUp(mySettings);
+				
+				// You can add content from anywhere in your page
+				// $.markItUp( { Settings } );	
+				$('.add').click(function() {
+			 		$.markItUp( { 	openWith:'<opening tag>',
+									closeWith:'<\/closing tag>',
+									placeHolder:"New content"
+								}
+							);
+			 		return false;
+				});
+			});
+			-->
+			</script>
+<SCRIPT LANGUAGE="Javascript">
+				<!---
+				function decision(message, url){
+				if(confirm(message)) location.href = url;
+				}
+				// --->
+				</SCRIPT><div id="networknavbar"><center><div class="main"><ul style="float:left; margin-left: -10px;"><li><a href="/language/box" rel="facebox"><div style="background-repeat:no-repeat;background-position:3px 3px;padding-left:26px;background-image:url('https://voobly.com/res/flags/uk.png');">English</div></a></li></ul><ul><li><a href="http://rts-sanctuary.com" title="Your Place For Expert Replays">RTS-Sanctuary</a></li><li><a href="https://voobly.com/settings/browse/Premium%20Membership" title="Unlock More Great Features!">Upgrade Account &raquo;</a></li></ul></div></center></div><div id="header"><div class="main"><div class="logo"><a href="https://voobly.com"><img src="https://voobly.com/res/images/layout/logo.png" alt="Play Social Games Online" /></a></div><div class="right"><div class="users-online"><strong>3498</strong> players online</div><div class="login">Welcome GenericUser0</div><div class="links"><a class="loginlink" href="/logout">Logout</a> | <a class="loginlink" href="https://voobly.com/pages/view/help">Help</a></div></div></div></div><div id="navbar"><div class="main"><div class="seperator"></div><a href="https://voobly.com/" onfocus="this.blur();" class="navbaritem"><div class="item first">Games</div></a><div class="seperator"></div><a href="https://voobly.com/profile/view/125169069" onfocus="this.blur();" class="navbaritem"><div class="item">Profile</div></a><div class="seperator"></div><a href="https://voobly.com/friends" onfocus="this.blur();" class="navbaritem"><div class="item">Friends</div></a><div class="seperator"></div><a href="https://voobly.com/team" onfocus="this.blur();" class="navbaritem"><div class="item">Teams</div></a><div class="seperator"></div><a href="https://voobly.com/messaging" onfocus="this.blur();" class="navbaritem"><div class="item">Inbox</div></a><div class="seperator"></div><a href="https://voobly.com/settings" onfocus="this.blur();" class="navbaritem"><div class="item">Settings</div></a><div class="seperator"></div><a href="https://voobly.com/forum" onfocus="this.blur();" class="navbaritem"><div class="item">Forum</div></a><div class="seperator"></div><a href="https://voobly.com/pages/view/help" onfocus="this.blur();" class="navbaritem"><div class="item">Help</div></a><div class="seperator"></div><a href="https://support.voobly.com/display/vkb" onfocus="this.blur();" class="navbaritem"><div class="item">Support</div></a><div class="seperator"></div><div class="search"><form action="https://www.voobly.com/friends/browse/Search/Search" method="post"><input name="query" value="Search keyword..." onFocus="textfield_clear(this)" onBlur="textfield_clear(this)" /><input type=hidden name="session1" value="ou5z2io20k82g3kr"></form></div></div></div><div class="clear"></div><div style="margin-bottom:20px"></div><div class="clear"></div><div class="clear"></div><div style="text-align: left; margin: 0px auto; padding-right: 8px; width: 741px; background-repeat:no-repeat;background-position:right center;background-image:url('https://voobly.com/res/images/main/ad_label_v1.gif');"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8651194965122206" data-ad-slot="1278997179"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div id="container"><div id="content"><div class="left-column">
+<br>
+<table>
+<tr>
+<td><a href="https://voobly.com/games/view/Age-of-Empires-II-The-Conquerors"><img src="/files/view/4002836/siz4490rcgmgimjyjeqq7mmccrbwofie" border="0" alt="Age of Empires II: The Conquerors"></a></td>
+<td valign=top><h3><a href="https://voobly.com/games/view/Age-of-Empires-II-The-Conquerors">Age of Empires II: The Conquerors</a></h3>
+Ladder: <a href="https://voobly.com/ladder/view/Age-of-Empires-II-The-Conquerors/RM-Team-Games">RM - Team Games</a>
+</td>
+</tr>
+</table>
+<div id="tabbar"><div class="tab-active" style="background: white;"><a href="/match/view/18731428/Match-Details">Match Details</a></div><div class="spacing"></div><div class="tab"><a href="/match/view/18731428/Rating-Trends">Rating Trends</a></div><div class="spacing"></div><div class="tab"><a href="/match/view/18731428/Pre-Game-Chat">Pre-Game Chat</a></div><div class="spacing"></div><div class="tab"><a href="/match/view/18731428/In-Game-Chat">In-Game Chat</a></div><div class="spacing"></div><div class="tab"><a href="/match/view/18731428/Researches">Researches</a></div><div class="spacing"></div><div class="tab"><a href="/match/view/18731428/Moderation">Moderation</a></div><div class="spacing"></div><div style="float: right; padding-right: 18px; padding-top: 4px;"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+				  var js, fjs = d.getElementsByTagName(s)[0];
+				  if (d.getElementById(id)) return;
+				  js = d.createElement(s); js.id = id;
+				  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+				  fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="https://www.voobly.com/match/view/18731428" data-send="false" data-width="450" data-show-faces="false" data-layout="button_count"></div>
+</div></div><div id="tab-content" style="background: white;"><div class="content">
+<table style="font-weight: bold; margin-bottom: 4px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table cellspacing=0 cellpadding=0 width=100%><tr>
+<td width=50% valign=top>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td style="font-weight: bold; padding: 3px" bgcolor="#EDF3F9">Match Details</td>
+<td style="padding: 3px; text-align: right;" bgcolor="#EDF3F9">#18731428</td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding: 0px; height: 8px;" colspan=2></td>
+</tr>
+<tr>
+<td style="padding: 3px; padding-left:20px; ">Date Played:</td>
+<td style="padding: 3px; padding-right:20px;text-align: right; ">Today, 10:04 am</td>
+</tr>
+<tr>
+<td style="padding: 3px; padding-left:20px;" bgcolor="#EDF3F9">Match Rating:</td>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">1938</td>
+</tr>
+<tr>
+<td style="padding: 3px; padding-left:20px;">Map:</td>
+<td style="padding: 3px; padding-right:20px;text-align: right;">Black Forest</td>
+</tr>
+<tr>
+<td style="padding: 3px; padding-left:20px;" bgcolor="#EDF3F9">Duration:</td>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">01:20:15</td>
+</tr>
+<tr>
+<td style="padding: 3px; padding-left:20px; ">Players:</td>
+<td style="padding: 3px; padding-right:20px;text-align: right;">8</td>
+</tr> <tr>
+<td style="padding: 3px; padding-left:20px;" bgcolor="#EDF3F9">Game Mod:</td>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">v1.5 Beta R7 | Allied Vision</td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding: 0px; height: 8px;" colspan=2><center><img style="padding:8px;" src="/game/AOC/gameimage/18731428"></center></td>
+</tr>
+<tr>
+<td style="font-weight: bold; padding: 0px; height: 8px;" colspan=2></td>
+</tr>
+</table>
+</td>
+<td width=4px valign=top>
+</td>
+<td valign=top>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td style="padding: 3px; text-align: right;" bgcolor="#EDF3F9"><b>Match Recordings</b> (Player's Point of View)</td>
+</tr>
+<tr><td style="font-weight: bold; padding: 0px; height: 8px;" colspan=2></td></tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#FFFFFF">
+<a href='/files/view/49966931/g59hov87z7zozuwpmj3irtyqzbh3hq8o'>Download Rec. from <b>[i_got]Tia_Harribel_</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">
+<a href='/files/view/49966938/q5p4ob6027uvkdezo6bhmyd3jnesfea4'>Download Rec. from <b>[i_got]_wasted</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#FFFFFF">
+<a href='/files/view/49966941/i4yub4k3vbzc0ujkmrhsh8owy9rof2ow'>* Download Rec. from <b>[i_got]talminated</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">
+<a href='/files/view/49966944/jomh73t0t3re8rc27qbaitftd6rcqqe9'>Download Rec. from <b>MysticCloudZ</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#FFFFFF">
+<a href='/files/view/49966948/564ca3mg28eapihwnmuixj7gjdrs74xb'>Download Rec. from <b>[_SY_]Fengxin_</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">
+<a href='/files/view/49966958/tbioxo7k4m8z98da2bn7hu65izyrtujc'>* Download Rec. from <b>[Heresy]LaaaaaN</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#FFFFFF">
+<a href='/files/view/49966962/moyy4un8086qj0rw3s0kto0dvq98i503'>Download Rec. from <b>[RoAmEr_]_Lisa</b></a></td>
+</tr><tr>
+<td style="padding: 3px; padding-right:20px;text-align: right;" bgcolor="#EDF3F9">
+<a href='/files/view/49966965/edduwsuvh84ouxpcqoao6wghp8htrtn4'>Download Rec. from <b>herdamit</b></a></td>
+</tr><tr><td style="font-weight: bold; padding: 0px; height: 8px;" colspan=2></td></tr>
+</table>
+</td>
+</tr></table>
+<table style="font-weight: bold; margin-bottom: 2px; margin-top: 0px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table width=100% cellpadding=0><tr><td valign=top width=50%><table cellspacing=0 cellpadding=0 width=100%>
+<tr><td width=50px height=52px><a href="https://voobly.com/profile/view/123989026"><img src="https://voobly.com/res/user_img_small.png" border=0 height=50px width=50px alt="LaaaaaN"></a></td><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td align=right>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td align=left><div style="padding-left: 5px"><img src=/res/games/AOC/win.PNG><img src=/res/games/AOC/high.PNG></div></td><td valign=bottom align=right><a href=https://Heresy-AoE.voobly.com>[Heresy]</a><a href="https://voobly.com/profile/view/123989026">LaaaaaN</a> <img src=https://voobly.com/res/flags/es.png border=0></a></td></tr></table>
+<span style="font-size:11px; color:#82909D">New Rating: <b>2038</b> Points: <b><span style="color:#00A651">8</span></b> Team: <b>1</b></span>
+</td>
+<td width=32px>
+<img src=/res/games/AOC/civs/12.gif>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr><td width=50px height=52px><a href="https://voobly.com/profile/view/124991496"><img src="https://voobly.com/res/user_img_small.png" border=0 height=50px width=50px alt="herdamit"></a></td><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td align=right>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td align=left><div style="padding-left: 5px"><img src=/res/games/AOC/win.PNG></div></td><td valign=bottom align=right><a href="https://voobly.com/profile/view/124991496">herdamit</a> <img src=https://voobly.com/res/flags/de.png border=0></a></td></tr></table>
+<span style="font-size:11px; color:#82909D">New Rating: <b>1872</b> Points: <b><span style="color:#00A651">9</span></b> Team: <b>1</b></span>
+</td>
+<td width=32px>
+<img src=/res/games/AOC/civs/17.gif>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr><td width=50px height=52px><a href="https://voobly.com/profile/view/124671676"><img src="https://voobly.com/res/user_img_small.png" border=0 height=50px width=50px alt="_Lisa"></a></td><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td align=right>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td align=left><div style="padding-left: 5px"><img src=/res/games/AOC/win.PNG></div></td><td valign=bottom align=right><a href=https://RoAmEr.voobly.com>[RoAmEr_]</a><a href="https://voobly.com/profile/view/124671676">_Lisa</a> <img src=https://voobly.com/res/flags/de.png border=0></a></td></tr></table>
+<span style="font-size:11px; color:#82909D">New Rating: <b>1801</b> Points: <b><span style="color:#00A651">9</span></b> Team: <b>1</b></span>
+</td>
+<td width=32px>
+<img src=/res/games/AOC/civs/16.gif>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr><td width=50px height=52px><a href="https://voobly.com/profile/view/123835916"><img src="https://voobly.com/res/user_img_small.png" border=0 height=50px width=50px alt="Fengxin_"></a></td><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td align=right>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td align=left><div style="padding-left: 5px"><img src=/res/games/AOC/win.PNG></div></td><td valign=bottom align=right><span class="user-moderator-link">+<a href=https://SYteam.voobly.com>[_SY_]</a><a href="https://voobly.com/profile/view/123835916">Fengxin_</a></span> <img src=https://voobly.com/res/flags/cn.png border=0></a></td></tr></table>
+<span style="font-size:11px; color:#82909D">New Rating: <b>2039</b> Points: <b><span style="color:#00A651">8</span></b> Team: <b>1</b></span>
+</td>
+<td width=32px>
+<img src=/res/games/AOC/civs/11.gif>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td><td width=4px valign=top></td><td valign=top width=50%><table cellspacing=0 cellpadding=0 width=100%>
+<tr><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td width=32px>
+<img src=/res/games/AOC/civs/5.gif>
+</td>
+<td align=left>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td valign=bottom><img src=https://voobly.com/res/flags/ca.png border=0></a> <a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/1655">_wasted</a></td><td align=right><div style="padding-right: 5px"></div></td></tr></table>
+<span style="font-size:11px; color:#82909D">Team: <b>2</b> Points: <b><span style="color:#FF0000">-9</span></b> New Rating: <b>2008</b></span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td><td width=50px height=52px><a href="https://voobly.com/profile/view/1655"><img src="/files/view/1415146/szntw23dxsgditszv6rcdgb84dxqhau9" border=0 height=50px width=50px alt="_wasted"></a></td>
+</tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td width=32px>
+<img src=/res/games/AOC/civs/1.gif>
+</td>
+<td align=left>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td valign=bottom><img src=https://voobly.com/res/flags/be.png border=0></a> <a href="https://voobly.com/profile/view/4209">MysticCloudZ</a></td><td align=right><div style="padding-right: 5px"></div></td></tr></table>
+<span style="font-size:11px; color:#82909D">Team: <b>2</b> Points: <b><span style="color:#FF0000">-6</span></b> New Rating: <b>1697</b></span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td><td width=50px height=52px><a href="https://voobly.com/profile/view/4209"><img src="https://voobly.com/res/user_img_small.png" border=0 height=50px width=50px alt="MysticCloudZ"></a></td>
+</tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td width=32px>
+<img src=/res/games/AOC/civs/3.gif>
+</td>
+<td align=left>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td valign=bottom><img src=https://voobly.com/res/flags/ba.png border=0></a> <a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/124214626">Tia_Harribel_</a></td><td align=right><div style="padding-right: 5px"></div></td></tr></table>
+<span style="font-size:11px; color:#82909D">Team: <b>2</b> Points: <b><span style="color:#FF0000">-9</span></b> New Rating: <b>1994</b></span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td><td width=50px height=52px><a href="https://voobly.com/profile/view/124214626"><img src="/files/view/28854315/pboh6vogwi08q9ivjswvnova2h7cmnz0" border=0 height=50px width=50px alt="Tia_Harribel_"></a></td>
+</tr>
+</table>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr><td>
+<table cellspacing=0 cellpadding=3 width=100%>
+<tr>
+<td bgcolor="#EDF3F9">
+<table cellspacing=0 cellpadding=2 width=100%>
+<tr>
+<td width=32px>
+<img src=/res/games/AOC/civs/4.gif>
+</td>
+<td align=left>
+<table cellspacing=0 cellpadding=0 width=100%><tr><td valign=bottom><img src=https://voobly.com/res/flags/de.png border=0></a> <a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/123943110">talminated</a></td><td align=right><div style="padding-right: 5px"><img src=/res/games/AOC/high.PNG></div></td></tr></table>
+<span style="font-size:11px; color:#82909D">Team: <b>2</b> Points: <b><span style="color:#FF0000">-9</span></b> New Rating: <b>2056</b></span>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td><td width=50px height=52px><a href="https://voobly.com/profile/view/123943110"><img src="https://voobly.com/res/user_img_small.png" border=0 height=50px width=50px alt="talminated"></a></td>
+</tr>
+</table>
+</td></tr></table><table style="font-weight: bold; margin-bottom: 2px; margin-top: 2px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table width=100% border=0>
+<tr>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9" width=25%>Overall Score</td>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Military Score</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Economy Score</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Technology Score</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Society Score</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Total Score</td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MON</div>
+</td><td width=5px>
+<div style="background-color: #FF0000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://Heresy-AoE.voobly.com>[Heresy]</a><a href="https://voobly.com/profile/view/123989026">LaaaaaN</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">30,072</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>7,148</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">5,395</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">1,430</div></center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">44,045</div></center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">HUN</div>
+</td><td width=5px>
+<div style="background-color: #C0C0C0; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/124991496">herdamit</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>9,287</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>5,466</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3,868</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>130</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#EDF3F9><center>18,751</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MAY</div>
+</td><td width=5px>
+<div style="background-color: #0054A6; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://RoAmEr.voobly.com>[RoAmEr_]</a><a href="https://voobly.com/profile/view/124671676">_Lisa</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>8,953</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>6,901</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>5,345</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>520</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#FFFFFF><center>21,719</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">VIK</div>
+</td><td width=5px>
+<div style="background-color: #00FFFF; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<span class="user-moderator-link">+<a href=https://SYteam.voobly.com>[_SY_]</a><a href="https://voobly.com/profile/view/123835916">Fengxin_</a></span>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3,631</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">8,051</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3,987</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#EDF3F9><center>15,669</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">JAP</div>
+</td><td width=5px>
+<div style="background-color: #00A651; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/1655">_wasted</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>11,572</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>7,878</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>4,361</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>260</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#FFFFFF><center>24,071</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">BRI</div>
+</td><td width=5px>
+<div style="background-color: #FF8000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/4209">MysticCloudZ</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>9,581</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>1,805</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>4,959</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>390</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#EDF3F9><center>16,735</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">GOT</div>
+</td><td width=5px>
+<div style="background-color: #92278F; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/124214626">Tia_Harribel_</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>6,630</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>6,717</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>3,544</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>650</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#FFFFFF><center>17,541</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">TEU</div>
+</td><td width=5px>
+<div style="background-color: #FFFF00; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/123943110">talminated</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>15,938</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>7,920</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>4,705</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>390</center></td><td style="padding: 3px; font-weight: bold; color: #9E0B0F" bgcolor=#EDF3F9><center>28,953</center></td></tr></table><table style="font-weight: bold; margin-bottom: 2px; margin-top: 2px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table width=100% border=0>
+<tr>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9" width=25%>Military Score</td>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Units Killed</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Units Lost</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Buildings Razed</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Buildings Lost</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Units Converted</td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MON</div>
+</td><td width=5px>
+<div style="background-color: #FF0000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://Heresy-AoE.voobly.com>[Heresy]</a><a href="https://voobly.com/profile/view/123989026">LaaaaaN</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">1,796</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>394</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">93</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>11</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">HUN</div>
+</td><td width=5px>
+<div style="background-color: #C0C0C0; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/124991496">herdamit</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>554</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>720</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>21</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>8</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MAY</div>
+</td><td width=5px>
+<div style="background-color: #0054A6; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://RoAmEr.voobly.com>[RoAmEr_]</a><a href="https://voobly.com/profile/view/124671676">_Lisa</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>546</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>499</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>20</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">7</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">VIK</div>
+</td><td width=5px>
+<div style="background-color: #00FFFF; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<span class="user-moderator-link">+<a href=https://SYteam.voobly.com>[_SY_]</a><a href="https://voobly.com/profile/view/123835916">Fengxin_</a></span>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>162</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">181</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>34</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>63</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">JAP</div>
+</td><td width=5px>
+<div style="background-color: #00A651; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/1655">_wasted</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>459</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>1,164</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>18</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>10</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">BRI</div>
+</td><td width=5px>
+<div style="background-color: #FF8000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/4209">MysticCloudZ</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>486</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>593</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>41</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>86</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>5</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">GOT</div>
+</td><td width=5px>
+<div style="background-color: #92278F; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/124214626">Tia_Harribel_</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>303</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>666</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>10</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>64</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">8</div></center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">TEU</div>
+</td><td width=5px>
+<div style="background-color: #FFFF00; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/123943110">talminated</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>643</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>748</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>20</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>8</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td></tr></table><table style="font-weight: bold; margin-bottom: 2px; margin-top: 2px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table width=100% border=0>
+<tr>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9" width=25%>Economy Score</td>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Food</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Wood</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Stone</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Gold</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Trade Profit</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Tribute Received</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Tribute Sent</td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MON</div>
+</td><td width=5px>
+<div style="background-color: #FF0000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://Heresy-AoE.voobly.com>[Heresy]</a><a href="https://voobly.com/profile/view/123989026">LaaaaaN</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>33,393</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>80,544</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>3,369</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">48,174</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">27,389</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>15,023</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>1,000</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">HUN</div>
+</td><td width=5px>
+<div style="background-color: #C0C0C0; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/124991496">herdamit</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>67,801</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>39,384</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3,691</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>44,246</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>21,189</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>5,078</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>6,902</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MAY</div>
+</td><td width=5px>
+<div style="background-color: #0054A6; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://RoAmEr.voobly.com>[RoAmEr_]</a><a href="https://voobly.com/profile/view/124671676">_Lisa</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>43,756</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>58,872</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>3,598</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>33,844</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>12,613</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>9,683</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>4,757</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">VIK</div>
+</td><td width=5px>
+<div style="background-color: #00FFFF; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<span class="user-moderator-link">+<a href=https://SYteam.voobly.com>[_SY_]</a><a href="https://voobly.com/profile/view/123835916">Fengxin_</a></span>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>38,903</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>51,386</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>2,385</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>15,300</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>5,064</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>1,500</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>18,624</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">JAP</div>
+</td><td width=5px>
+<div style="background-color: #00A651; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/1655">_wasted</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">70,068</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>84,453</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>2,143</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>14,658</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>1,748</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">23,283</div></center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">BRI</div>
+</td><td width=5px>
+<div style="background-color: #FF8000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/4209">MysticCloudZ</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>39,006</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>43,595</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3,812</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>16,172</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>2,607</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>2,737</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>1,850</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">GOT</div>
+</td><td width=5px>
+<div style="background-color: #92278F; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/124214626">Tia_Harribel_</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>41,278</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>35,053</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">4,351</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>23,069</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>11,300</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>25,356</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">TEU</div>
+</td><td width=5px>
+<div style="background-color: #FFFF00; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/123943110">talminated</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>43,562</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">84,595</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>4,251</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>36,113</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>18,783</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>2,961</center></td></tr></table><table style="font-weight: bold; margin-bottom: 2px; margin-top: 2px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table width=100% border=0>
+<tr>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9" width=25%>Technology Score</td>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Feudal Time</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Castle Time</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Imperial Time</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Map Explored</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Research Count</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Research Percent</td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MON</div>
+</td><td width=5px>
+<div style="background-color: #FF0000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://Heresy-AoE.voobly.com>[Heresy]</a><a href="https://voobly.com/profile/view/123989026">LaaaaaN</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">00:09:18</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:19:04</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:29:54</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>40</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>40%</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">HUN</div>
+</td><td width=5px>
+<div style="background-color: #C0C0C0; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/124991496">herdamit</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:11:25</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:18:43</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:36:41</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>35</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>37%</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MAY</div>
+</td><td width=5px>
+<div style="background-color: #0054A6; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://RoAmEr.voobly.com>[RoAmEr_]</a><a href="https://voobly.com/profile/view/124671676">_Lisa</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:11:32</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:20:36</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:33:22</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">51</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">51%</div></center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">VIK</div>
+</td><td width=5px>
+<div style="background-color: #00FFFF; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<span class="user-moderator-link">+<a href=https://SYteam.voobly.com>[_SY_]</a><a href="https://voobly.com/profile/view/123835916">Fengxin_</a></span>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:12:25</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:25:00</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:57:46</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>41</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>41%</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">JAP</div>
+</td><td width=5px>
+<div style="background-color: #00A651; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/1655">_wasted</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:12:36</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:16:38</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:37:28</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>43</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>43%</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">BRI</div>
+</td><td width=5px>
+<div style="background-color: #FF8000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/4209">MysticCloudZ</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:13:20</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:18:04</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:33:04</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>47</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>46%</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">GOT</div>
+</td><td width=5px>
+<div style="background-color: #92278F; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/124214626">Tia_Harribel_</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:13:54</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:23:26</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>00:49:14</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>29</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>30%</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">TEU</div>
+</td><td width=5px>
+<div style="background-color: #FFFF00; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/123943110">talminated</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>00:12:22</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">00:16:08</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">00:27:58</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>100%</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>41</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>39%</center></td></tr></table><table style="font-weight: bold; margin-bottom: 2px; margin-top: 2px;" bgcolor="#EDF3F9" width=100% height=2px cellspacing=0 cellpadding=0><tr><td></td></tr></table>
+<table width=100% border=0>
+<tr>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9" width=25%>Society Score</td>
+<td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Total Wonders</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Total Castles</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Relics Captured</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Relic Gold</td><td style="padding: 3px; font-weight: bold;" bgcolor="#EDF3F9"><center>Villager High</td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MON</div>
+</td><td width=5px>
+<div style="background-color: #FF0000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://Heresy-AoE.voobly.com>[Heresy]</a><a href="https://voobly.com/profile/view/123989026">LaaaaaN</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">66</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">11</div></center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>1</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>1,180</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>165</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">HUN</div>
+</td><td width=5px>
+<div style="background-color: #C0C0C0; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/124991496">herdamit</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>28</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>1</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">2</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">1,781</div></center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>142</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">MAY</div>
+</td><td width=5px>
+<div style="background-color: #0054A6; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://RoAmEr.voobly.com>[RoAmEr_]</a><a href="https://voobly.com/profile/view/124671676">_Lisa</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>13</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>4</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>142</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #BEE4D7; text-align: center;">VIK</div>
+</td><td width=5px>
+<div style="background-color: #00FFFF; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<span class="user-moderator-link">+<a href=https://SYteam.voobly.com>[_SY_]</a><a href="https://voobly.com/profile/view/123835916">Fengxin_</a></span>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>19</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>156</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">JAP</div>
+</td><td width=5px>
+<div style="background-color: #00A651; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/1655">_wasted</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>11</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>2</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>157</center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">BRI</div>
+</td><td width=5px>
+<div style="background-color: #FF8000; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href="https://voobly.com/profile/view/4209">MysticCloudZ</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>15</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>107</center></td></tr><tr><td style="padding: 3px;" bgcolor=#FFFFFF>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">GOT</div>
+</td><td width=5px>
+<div style="background-color: #92278F; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/124214626">Tia_Harribel_</a>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>4</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>5</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center>0</center></td><td style="padding: 3px; color: black" bgcolor=#FFFFFF><center><div style="padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFF799; ">183</div></center></td></tr><tr><td style="padding: 3px;" bgcolor=#EDF3F9>
+<table cellspacing=0 cellpadding=0 width=100%>
+<tr>
+<td width=30 style="min-width: 30px">
+<div style="font-size:9px; padding: 0px; padding-top: 2px; padding-bottom: 2px; background-color: #FFCCCC; text-align: center;">TEU</div>
+</td><td width=5px>
+<div style="background-color: #FFFF00; padding: 1px; margin-left: 2px; margin-right: 3px;   border: 1px solid black; width:3px; height:12px"></div>
+</td> <td>
+<b><a href=https://igotx.voobly.com>[i_got]</a><a href="https://voobly.com/profile/view/123943110">talminated</a></b>
+</td>
+</tr>
+</table>
+</td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>20</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>3</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>1</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>1,598</center></td><td style="padding: 3px; color: black" bgcolor=#EDF3F9><center>159</center></td></tr></table></div></div><div style="height: 10px; width: 100%;"></div><div id="box"><div class="header"><div class="left-header"></div><div class="header-title">Comments</div><div class="right-header"></div></div><div class="content"><div class="content-body"><div class=clear></div><div id="wall-comments"><div class="add-comment">
+<form action="/match/view/18731428/Match Details/wall/post" method="post">
+<input type=hidden name="session1" value="ou5z2io20k82g3kr">
+<input type="hidden" name="threadid" value="4:18731428" />
+<textarea cols="60" rows="10" name="text" id="markItUp"></textarea>
+<span class=buttonspanclass><input type="submit" Value="Add Comment" class=buttonclass></span>
+</form></div><div id="pagebrowser1"><div class="comments"></div><div id="pagebrowser"><div class="items"><span class="current-page">[1]</span><div class="count">No comments found</div></div></div><div class="clear"></div></div></div><div class="clear"></div></div></div></div><div class="clear"></div><div id="activity"><div class="box"><span class="title">2 User(s) are viewing this match</span><span class="titledesc"> (in the past 30 minutes)</span><br><span class="overview">2 members, 0 guests</span><br><div class="users"><a href="https://voobly.com/profile/view/123712025">RushMePlease</a>, <a href="https://voobly.com/profile/view/125169069">GenericUser0</a></div><br><div><div style="float:left; width: 50%;"><span class="title">What's popular right now:</span><br><div class="users" style="width: 100%;"><div style="float: left; line-height: 24px;"><img src="/res/images/icons/user_comment.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/profile/view/123844441" title="MbL40C's Profile">MbL40C's Profile</a> (36 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/user_comment.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/profile/view/123211439" title="[Secret]TheViper's Profile">[Secret]TheViper's Profile</a> (30 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/cd_edit.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/gamemods/mod/860/WololoKingdoms" title="WololoKingdoms for Age of Empires II: The Conquerors">WololoKingdoms for Age of Empire...</a> (18 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/cd_edit.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/gamemods/mod/46/AoC-Custom-Scenarios" title="AoC Custom Scenarios for Age of Empires II: The Conquerors">AoC Custom Scenarios for Age of ...</a> (13 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/5869" title="Word Association">Word Association</a> (11 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/cd_edit.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/gamemods/mod/12/Forgotten-Empires-22" title="Forgotten Empires 2.2 for Age of Empires II: The Conquerors">Forgotten Empires 2.2 for Age of...</a> (5 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/297257" title="[VCOM CS] King of CBA 2x2">[VCOM CS] King of CBA 2x2</a> (5 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/cd_edit.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/gamemods/mod/487/Spectator-Overlay" title="Spectator Overlay for Age of Empires II: The Conquerors">Spectator Overlay for Age of Emp...</a> (5 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/cd_edit.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="/gamemods/mod/114/14-RC" title="1.4 RC for Age of Empires II: The Conquerors">1.4 RC for Age of Empires II: Th...</a> (4 users)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/229278" title="Roulette Blood">Roulette Blood</a> (4 users)</div><div class="clear"></div></div></div><div style="float:right; width: 49%"><span class="title">Most active threads in past week:</span><br><div class="users" style="width: 100%;"><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://endoftheline.voobly.com/forum/thread/297296" title="[Eot_] vs [xCs]: Clan War">[Eot_] vs [xCs]: Clan War</a> (85 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://endoftheline.voobly.com/forum/thread/297408" title="Zanchy vs Camp2gg BO11 - Nov 2018">Zanchy vs Camp2gg BO11 - Nov 2018</a> (17 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/296873" title="Zanchy vs ViVo_ BO9 CB Challenge">Zanchy vs ViVo_ BO9 CB Challenge</a> (16 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/297257" title="[VCOM CS] King of CBA 2x2">[VCOM CS] King of CBA 2x2</a> (10 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://endoftheline.voobly.com/forum/thread/296682" title="[Eot_] vs xCs Clan War Forum #2 - Details">[Eot_] vs xCs Clan War Forum #2 ...</a> (9 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/297092" title="Where can I find the game ? ">Where can I find the game ? </a> (5 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://voobly.com/forum/thread/5869" title="Word Association">Word Association</a> (5 posts)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/forums/thread/hot_unread.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word;  padding-top: 6px;"><a href="https://VooblyCommittee.voobly.com/forum/thread/297181" title="Europe 2v2 2018 League">Europe 2v2 2018 League</a> (4 posts)</div><div class="clear"></div></div></div><div class="clear"></div></div><br><span class="title">Recent activity by your friends (<a href="https://voobly.com/settings/browse/News-Reader">Filter</a>):</span><br><div class="users"><div style="font-size: 11px; font-weight: normal;color: #606060;margin-top: 5px;">17 October</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/star.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word; width: 620px; padding-top: 6px;"><a href="https://voobly.com/profile/view/1">Voobly</a> writes custom ranks for teams are now available <a href="/pages/view/149">Read more.</a> (8:39 pm)</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/star.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word; width: 620px; padding-top: 6px;"><a href="https://voobly.com/profile/view/1">Voobly</a> writes with the latest update custom teams lounges are now available. For an example see Age of Empires II: The Conquerors' lounge listing <a href="/pages/view/149">Read more.</a> (12:57 am)</div><div class="clear"></div><div style="font-size: 11px; font-weight: normal;color: #606060;margin-top: 5px;">13 October</div><div class="clear"></div><div style="float: left; line-height: 24px;"><img src="/res/images/icons/star.png" width="16px" height="16px" style="padding-right: 5px;vertical-align: middle;" /></div><div style="float: left; word-wrap: break-word; width: 620px; padding-top: 6px;"><a href="https://voobly.com/profile/view/1">Voobly</a> writes the Voobly Developer Center has been launched. If you're interested in integrated Voobly into your website check it out! <a href="/pages/view/145">Read more.</a> (2:46 am)</div><div class="clear"></div></div><br><span class="title">Translations:</span><br><div class="users"><a href="https://voobly.com/es/games/view/Age-of-Empires-II-The-Conquerors"><img src="/res/flags/es.png"> <a href="https://voobly.com/br/games/view/Age-of-Empires-II-The-Conquerors"><img src="/res/flags/br.png"> <a href="https://voobly.com/de/games/view/Age-of-Empires-II-The-Conquerors"><img src="/res/flags/de.png"> <a href="https://voobly.com/tr/games/view/Age-of-Empires-II-The-Conquerors"><img src="/res/flags/tr.png"> <a href="https://voobly.com/games/view/Age-of-Empires-II-The-Conquerors/?lang="><img src="/res/flags/"> </div></div></div><div style="margin-top: 15px;margin-bottom: 5px">
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<g:plusone></g:plusone></div>
+<div class="fb-like" data-href="https://www.voobly.com/match/view/18731428" data-send="true" data-width="450" data-show-faces="false"></div>
+</div><div class="right-column"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8651194965122206" data-ad-slot="7185929975"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div></div><div class="clear"></div><div style="text-align: left; margin: 0px auto; padding-right: 8px; width: 741px; background-repeat:no-repeat;background-position:right center;background-image:url('https://voobly.com/res/images/main/ad_label_v1.gif');"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8651194965122206" data-ad-slot="8802263970"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><div id="footer"><div class="text">&copy; Copyright 2007 -&nbsp;2018&nbsp;Voobly Inc. All Rights Reserved.<div class="links"><a href=/pages/view/about>About Voobly</a> | <a href=/pages/view/developers>Developers</a> | <a href=/pages/view/tos>Terms of Use</a> | <a href=/pages/view/cofc>Code of Conduct</a> | <a href="http://rts-sanctuary.com" title="Your Place For Expert Replays">RTS-Sanctuary</a> | <img src="https://voobly.com/res/flags/uk.png"></a> <a href="/language/box" rel="facebox">English</a></form></div></div></body></html>
